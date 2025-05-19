@@ -5,7 +5,7 @@ Dans cet exercice, nous allons créer une base de données pour gérer la réser
 
 ## Consignes de rendu
 ### Date 
-À définir lors du premier TP. 
+À définir lors du premier TP. => Nous avons défini le 09/06/2025
 
 ### Format 
 1 Fichier contenant les éléments d’analyses demandés en première partie :
